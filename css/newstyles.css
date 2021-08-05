@@ -1,0 +1,23 @@
+.jumbotron {
+  text-align: center;
+  background-color: aquamarine;
+  border:solid black;
+}
+
+.col-md-4 {
+  border:solid black;
+  background-color:aquamarine;
+
+}
+.col-md-4 h1, h2 {
+  text-align: center;
+  text-decoration-line: underline;
+}
+
+body {
+  background-color:blanchedalmond;
+}
+
+.navbar {
+  background-color:blanchedalmond;
+}

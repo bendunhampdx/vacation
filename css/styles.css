@@ -1,6 +1,17 @@
 .jumbotron {
   text-align: center;
+  background-color: aquamarine;
+  border:solid black;
 }
 img {
   width: 50%;
+}
+
+body {
+  background-color:blanchedalmond;
+}
+
+.card {
+  background-color:aquamarine;
+  border:solid black;
 }
