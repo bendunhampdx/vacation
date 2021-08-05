@@ -2,9 +2,11 @@
   text-align: center;
   background-color: aquamarine;
   border:solid black;
+  padding:5px;
 }
 img {
   width: 50%;
+  
 }
 
 body {
